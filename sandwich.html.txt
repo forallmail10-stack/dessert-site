@@ -1,0 +1,23 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Сэндвич</title>
+<style>
+body{margin:0;font-family:-apple-system;background:#f8f8f8;} 
+.hero img{width:100%;height:240px;object-fit:cover;} 
+.content{padding:20px;margin-top:-30px;background:white;border-radius:24px 24px 0 0;box-shadow:0 -10px 30px rgba(0,0,0,0.1);} 
+.title{font-size:24px;font-weight:700;} 
+.back{text-decoration:none;color:#555;display:inline-block;margin-bottom:10px;} 
+</style>
+</head>
+<body>
+<div class="hero"><img src="https://source.unsplash.com/600x400/?sandwich"></div>
+<div class="content">
+<a class="back" href="index.html">← Назад</a>
+<div class="title">Сэндвич</div>
+<p><b>История:</b> Назван в честь графа Сэндвича, который ел мясо между хлебом.</p>
+<p><b>Рецепт:</b> Хлеб, начинка, собрать.</p>
+</div>
+</body>
+</html>
